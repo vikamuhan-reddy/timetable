@@ -14,8 +14,8 @@ Add your timetable
 Execute the program
 
 # CODE
-```html
- 
+
+```git 
 <title>SEC SLOT TIMETABLE</title>
 <BODY>
 	<IMG src="logo.png"
