@@ -122,7 +122,8 @@ Execute the program
 
 
 # OUTPUT
-!['output'](./timetable1.png.jpg)
+![timetable1 png](https://github.com/vikamuhan-reddy/timetable/assets/144928933/45c29be4-1f9d-468a-b2bc-7e0be0095554)
+
 
 
 # RESULT
